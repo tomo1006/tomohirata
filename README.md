@@ -41,9 +41,3 @@ Tooling for analyzing structured business files using C#.
 ## GitHub Stats
 [![Top Langs](https://github-readme-stats-omega-eight-70.vercel.app/api/top-langs/?username=tomo1006&layout=compact&theme=radical)](https://github.com/tomo1006)
 [![GitHub Stats](https://github-readme-stats-omega-eight-70.vercel.app/api?username=tomo1006&show_icons=true&theme=radical)](https://github.com/tomo1006)
-
-## Contact
-
-- Portfolio: GitHub Pages link
-- LinkedIn: LinkedIn link
-- Email: business email
